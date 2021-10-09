@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### I'm junior full stack developer and student .
+
+### I'm currently working on personal projects .
+
+### For all questions, write to the mail: goru00@vk.com .
+
 <!--
 **goru00/goru00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
