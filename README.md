@@ -6,6 +6,7 @@
 
 ### For all questions, write to the mail: goru00@vk.com .
 
+### https://www.codewars.com/users/goru00
 <!--
 **goru00/goru00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
