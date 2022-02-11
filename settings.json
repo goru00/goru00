@@ -1,0 +1,27 @@
+{
+    "workbench.colorTheme": "One Monokai",
+
+    "remote.SSH.remotePlatform": {
+        "84.38.182.64": "linux"
+    },
+    "explorer.confirmDelete": false,
+    "editor.fontSize": 18,
+    "workbench.editor.splitOnDragAndDrop": false,
+    "workbench.startupEditor": "none",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+
+    // custom
+
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.minimap.enabled": false,
+    "editor.overviewRulerBorder": false,
+    "editor.lineNumbers": "off",
+    "editor.glyphMargin": false,
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.visible": false,
+    "workbench.statusBar.visible": false,
+    "workbench.editor.showIcons": false,
+    "workbench.editor.showTabs": false,
+    "breadcrumbs.enabled": false
+}
